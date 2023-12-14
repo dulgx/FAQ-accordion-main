@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+    width: 100%;
+    z-index: 0;
+}
+
+.section {}
+
+.container {
+    z-index: 1;
+    position: fixed;
+    width: 650px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
